@@ -1,0 +1,13 @@
+{
+    "name": "Alfadeel",
+    "alias": "alfadeel",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Alfadeel\\Providers\\AlfadeelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

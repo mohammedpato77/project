@@ -1,0 +1,13 @@
+{
+    "name": "PATO",
+    "alias": "pato",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\PATO\\Providers\\PATOServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

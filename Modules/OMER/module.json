@@ -1,0 +1,13 @@
+{
+    "name": "OMER",
+    "alias": "omer",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\OMER\\Providers\\OMERServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

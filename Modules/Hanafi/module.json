@@ -1,0 +1,13 @@
+{
+    "name": "Hanafi",
+    "alias": "hanafi",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Hanafi\\Providers\\HanafiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

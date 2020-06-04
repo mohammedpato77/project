@@ -1,0 +1,13 @@
+{
+    "name": "OSAMA",
+    "alias": "osama",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\OSAMA\\Providers\\OSAMAServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
