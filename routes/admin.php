@@ -11,11 +11,9 @@
 |
 */
 
-Route::prefix('hanafi');
- 
-    Route::get('/', 'HanafiController@index');
-    Route::resource('/post','PostsController');
-    route::get('/test','AdminController@mutaz0')->middleware('auth');
-    route::get('/test1','AdminController@mutaz1');
 
 
+Route::get('/admin', function(){
+ return ' admin route';
+
+});

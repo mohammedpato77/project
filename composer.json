@@ -49,10 +49,10 @@
     },
 
     
-        "autoload": {
-          "psr-4": {
-            "App\\": "app/",
-            "Modules\\": "Modules/"
+     "autoload": {
+      "psr-4": {
+      "App\\": "app/",
+      "Modules\\": "Modules/"
           }
         
       },
